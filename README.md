@@ -10,8 +10,6 @@ Inspired by [awesome-var](https://github.com/kvasilopoulos/awesome-var).
 - [Bayesian VARs](#bayesian-vars)
 - [Global VARs](#global-vars)
 - [Bayesian Global VARs](#global-vars)
-- [Software](#software)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## VAR Theory: Useful Books and Lecture Notes
@@ -42,42 +40,7 @@ Inspired by [awesome-var](https://github.com/kvasilopoulos/awesome-var).
 
 - [Resource name](link) — Short explanation.
 
-## Software
-
-### MATLAB
-
-- [Resource name](link) — Short explanation.
-
-### R
-
-- [Resource name](link) — Short explanation.
-
-### Python
-
-- [Resource name](link) — Short explanation.
-
-### Julia
-
-- [Resource name](link) — Short explanation.
-
-## Datasets
-
-- [Dataset name](link) — Short explanation.
-
-
-
-## Contributing
-
-Suggestions are welcome, but this repository is personally curated.
-
-Please follow these guidelines:
-
-- Add only high-quality and relevant resources.
-- Include a short description for each item.
-- Avoid duplicates.
-- Prefer official links whenever possible.
 
 ## License
 
-This repository is licensed under the MIT License.# awesome-var-resources
-A curated collection of resources on VAR codes.
+This repository is licensed under the MIT License.
