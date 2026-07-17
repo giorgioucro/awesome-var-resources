@@ -21,7 +21,7 @@ Inspired by [awesome-var](https://github.com/kvasilopoulos/awesome-var).
 
 ## VARs
 
-- [VAR-Toolbox (MATLAB)]([link](https://github.com/ambropo/VAR-Toolbox)) — Short explanation.
+- [VAR-Toolbox (MATLAB)](https://github.com/ambropo/VAR-Toolbox) — Short explanation.
 
 ## Bayesian VARs (BVAR)
 
