@@ -6,10 +6,13 @@ Inspired by [awesome-var](https://github.com/kvasilopoulos/awesome-var).
 
 ## Contents
 
-- [VAR Theory](#var-theory)
-- [Bayesian VARs](#bayesian-vars)
-- [Global VARs](#global-vars)
-- [Bayesian Global VARs](#global-vars)
+- [VAR Theory: Useful Books and Lecture Notes](#var-theory)
+- [VARs](#var-theory)
+- [Bayesian VARs (BVAR)](#bayesian-vars)
+- [Global VARs (GVAR)](#global-vars)
+- [Bayesian Global VARs (BGVAR)](#bayesian-global-vars)
+- [Shadow Rate VARs (SRVAR)](#shadow-rat-vars)
+- [Machine Learning Shadow Rate VARs (MLSRVAR)](#machine-learning-shadow-rate-vars)
 - [License](#license)
 
 ## VAR Theory: Useful Books and Lecture Notes
