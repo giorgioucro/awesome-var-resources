@@ -25,11 +25,11 @@ Inspired by [awesome-var](https://github.com/kvasilopoulos/awesome-var).
 
 ## Bayesian VARs (BVAR)
 
-- [BEAR (MATLAB)]([link](https://github.com/european-central-bank/BEAR-toolbox)) — Short explanation.
+- [BEAR (MATLAB)](https://github.com/european-central-bank/BEAR-toolbox)) — Short explanation.
 
 ## Global VARs (GVAR)
 
-- [GVAR Toolbox]([[link](https://sites.google.com/site/gvarmodelling/gvar-toolbox)]) — Short explanation.
+- [GVAR Toolbox](https://sites.google.com/site/gvarmodelling/gvar-toolbox) — Short explanation.
 
 ## Bayesian Global VARs (BGVAR)
 
