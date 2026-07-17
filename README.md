@@ -18,7 +18,7 @@ Inspired by [awesome-var](https://github.com/kvasilopoulos/awesome-var).
 - [Contributing](#contributing)
 - [License](#license)
 
-## VAR Theory
+## VAR Theory: Useful Books and Lecture Notes
 
 - [Resource name](link) — Short explanation.
 
@@ -34,7 +34,7 @@ Inspired by [awesome-var](https://github.com/kvasilopoulos/awesome-var).
 
 - [Resource name](link) — Short explanation.
 
-## Monetary Policy Applications
+## Bayesian Global VARs
 
 - [Resource name](link) — Short explanation.
 
@@ -64,9 +64,6 @@ Inspired by [awesome-var](https://github.com/kvasilopoulos/awesome-var).
 
 - [Paper / package name](link) — Short explanation.
 
-## Books and Lecture Notes
-
-- [Resource name](link) — Short explanation.
 
 ## Contributing
 
