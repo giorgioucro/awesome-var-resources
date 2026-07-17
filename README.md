@@ -41,7 +41,7 @@ Inspired by [awesome-var](https://github.com/kvasilopoulos/awesome-var).
 
 ## Machine Learning Shadow Rate VARs (MLSRVAR)
 
-- [MLSRVAR (MATLAB)](https://github.com/MichaelGrammmatikopoulos/MLSRVARs) — (Grammatikopoulos, 2025)
+- [MLSRVAR (MATLAB)](https://github.com/MichaelGrammmatikopoulos/MLSRVARs) — from Grammatikopoulos (2025, Journal of Forecasting).
 
 ## License
 
