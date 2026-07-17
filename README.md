@@ -1,4 +1,4 @@
-# Awesome VAR Resources
+# VAR Resources
 
 > A curated list of resources on Vector Autoregressions.
 
