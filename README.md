@@ -22,19 +22,27 @@ Inspired by [awesome-var](https://github.com/kvasilopoulos/awesome-var).
 
 - [Resource name](link) — Short explanation.
 
-## Structural VARs
+## VARs
 
 - [Resource name](link) — Short explanation.
 
-## Bayesian VARs
+## Bayesian VARs (BVAR)
 
 - [Resource name](link) — Short explanation.
 
-## Global VARs
+## Global VARs (GVAR)
 
 - [Resource name](link) — Short explanation.
 
-## Bayesian Global VARs
+## Bayesian Global VARs (BGVAR)
+
+- [Resource name](link) — Short explanation.
+
+## Shadow Rate VARs (SRVAR)
+
+- [Resource name](link) — Short explanation.
+
+## Machine Learning Shadow Rate VARs (MLSRVAR)
 
 - [Resource name](link) — Short explanation.
 
