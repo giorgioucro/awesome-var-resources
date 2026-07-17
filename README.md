@@ -1,6 +1,6 @@
 # Awesome VAR Resources
 
-> A curated list of resources on Vector Autoregressions, Bayesian VARs, Structural VARs, Global VARs, datasets, papers, replication packages, and code.
+> A curated list of resources on Vector Autoregressions.
 
 Inspired by [awesome-var](https://github.com/kvasilopoulos/awesome-var).
 
