@@ -25,11 +25,11 @@ Inspired by [awesome-var](https://github.com/kvasilopoulos/awesome-var).
 
 ## Bayesian VARs (BVAR)
 
-- [BEAR (MATLAB)](https://github.com/european-central-bank/BEAR-toolbox)) — Short explanation.
+- [BEAR (MATLAB with Excel interface)](https://github.com/european-central-bank/BEAR-toolbox)) — Short explanation.
 
 ## Global VARs (GVAR)
 
-- [GVAR Toolbox](https://sites.google.com/site/gvarmodelling/gvar-toolbox) — Short explanation.
+- [GVAR Toolbox (MATLAB with Excel interface)](https://sites.google.com/site/gvarmodelling/gvar-toolbox) — Short explanation.
 
 ## Bayesian Global VARs (BGVAR)
 
@@ -37,12 +37,11 @@ Inspired by [awesome-var](https://github.com/kvasilopoulos/awesome-var).
 
 ## Shadow Rate VARs (SRVAR)
 
-- [Resource name](link) — Short explanation.
+- [SRVAR (Python)](https://github.com/shawcharles/srvar-toolkit) — SRVAR toolkit inspired by Grammatikopoulos (2025, Journal of Forecasting).
 
 ## Machine Learning Shadow Rate VARs (MLSRVAR)
 
-- [Resource name](link) — Short explanation.
-
+- [MLSRVAR (MATLAB)](https://github.com/MichaelGrammmatikopoulos/MLSRVARs) — Short explanation.
 
 ## License
 
