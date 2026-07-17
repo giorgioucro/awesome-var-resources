@@ -7,14 +7,10 @@ Inspired by [awesome-var](https://github.com/kvasilopoulos/awesome-var).
 ## Contents
 
 - [VAR Theory](#var-theory)
-- [Structural VARs](#structural-vars)
 - [Bayesian VARs](#bayesian-vars)
 - [Global VARs](#global-vars)
-- [Monetary Policy Applications](#monetary-policy-applications)
+- [Bayesian Global VARs](#global-vars)
 - [Software](#software)
-- [Datasets](#datasets)
-- [Replication Packages](#replication-packages)
-- [Books and Lecture Notes](#books-and-lecture-notes)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -68,9 +64,6 @@ Inspired by [awesome-var](https://github.com/kvasilopoulos/awesome-var).
 
 - [Dataset name](link) — Short explanation.
 
-## Replication Packages
-
-- [Paper / package name](link) — Short explanation.
 
 
 ## Contributing
