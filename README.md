@@ -23,7 +23,7 @@ Inspired by [awesome-var](https://github.com/kvasilopoulos/awesome-var).
 - [Silvia Miranda-Agrippino](https://silviamirandaagrippino.com/code-data) — 
 - [Tao Zha](https://tzha.net/code/) — 
 - [Lutz Kilian](https://sites.google.com/site/lkilian2019/research/code) —
-- [Katerina Petrova](https://sites.google.com/site/katerinapetrovawebpage/research?authuser=0&pli=1))
+- [Katerina Petrova](https://sites.google.com/site/katerinapetrovawebpage/research?authuser=0&pli=1)
   
 ## VARs
 
