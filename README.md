@@ -24,6 +24,7 @@ Inspired by [awesome-var](https://github.com/kvasilopoulos/awesome-var).
 - [Tao Zha](https://tzha.net/code/) — 
 - [Lutz Kilian](https://sites.google.com/site/lkilian2019/research/code) —
 - [Katerina Petrova](https://sites.google.com/site/katerinapetrovawebpage/research?authuser=0&pli=1)
+- [Jouchi Nakajima](https://sites.google.com/site/jnakajimaweb/program)
   
 ## VARs
 
