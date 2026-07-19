@@ -26,7 +26,7 @@ Inspired by [awesome-var](https://github.com/kvasilopoulos/awesome-var).
 ## Bayesian VARs (BVAR)
 
 - [BEAR (MATLAB with Excel interface)](https://github.com/european-central-bank/BEAR-toolbox) — BEAR includes state-of-the art applications such as FAVARs, stochastic volatility, time-varying parameters, mixed-frequency, sign and magnitude restrictions, conditional forecasts, Bayesian forecast evaluation measures, Bayesian Panel VAR using different prior distributions (for example hierarchical priors).
-- [BVAR (MATLAB)](https://github.com/naffe15/BVAR_) — Empirical macro toolbox by F. Ferroni and F. Canova: 
+- [BVAR (MATLAB)](https://github.com/naffe15/BVAR_) — Empirical macro toolbox by F. Ferroni and F. Canova.
 
 ## Global VARs (GVAR)
 
