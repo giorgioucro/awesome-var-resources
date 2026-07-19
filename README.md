@@ -30,11 +30,13 @@ Inspired by [awesome-var](https://github.com/kvasilopoulos/awesome-var).
 ## VARs
 
 - [VAR-Toolbox (MATLAB)](https://github.com/ambropo/VAR-Toolbox) — by Ambrogio Cesa-Bianchi.
+- [VAR-Toolkit (Python)](https://github.com/r-uben/varkit) — Python implementation of Cesa-Bianchi's VAR-Toolbox. Modern API for Vector Autoregressive analysis, ported from the original MATLAB version by Rubén Fernández-Fuertes.
 
 ## Bayesian VARs (BVAR)
 
 - [BEAR (MATLAB with Excel interface)](https://github.com/european-central-bank/BEAR-toolbox) — BEAR includes state-of-the art applications such as FAVARs, stochastic volatility, time-varying parameters, mixed-frequency, sign and magnitude restrictions, conditional forecasts, Bayesian forecast evaluation measures, Bayesian Panel VAR using different prior distributions (for example hierarchical priors).
 - [BVAR (MATLAB)](https://github.com/naffe15/BVAR_) — Empirical macro toolbox by F. Ferroni and F. Canova.
+- [BVAR (MATLAB)](https://github.com/r-uben/bvar-impulse-responses-jk-2020) — by Rubén Fernández-Fuertes.
 
 ## Global VARs (GVAR)
 
@@ -51,6 +53,10 @@ Inspired by [awesome-var](https://github.com/kvasilopoulos/awesome-var).
 ## Machine Learning Shadow Rate VARs (MLSRVAR)
 
 - [MLSRVAR (MATLAB)](https://github.com/MichaelGrammmatikopoulos/MLSRVARs) — from Grammatikopoulos (2025, Journal of Forecasting).
+
+## Local Projections (LP)
+
+- [Macro Toolkit (Python)](https://github.com/r-uben/macro-toolkit) — by Rubén Fernández-Fuertes.
 
 ## License
 
