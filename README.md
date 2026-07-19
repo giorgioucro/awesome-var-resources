@@ -17,7 +17,7 @@ Inspired by [awesome-var](https://github.com/kvasilopoulos/awesome-var).
 
 ## VAR Theory: Useful Books, Lecture Notes and Authors
 
-- [Dimitris Korobilis]([link](https://sites.google.com/site/dimitriskorobilis/matlab?authuser=0)) — 
+- [Dimitris Korobilis](https://sites.google.com/site/dimitriskorobilis/matlab?authuser=0) — 
 - [Gary Koop](https://sites.google.com/site/garykoop/home/computer-code-2?authuser=0) — 
 - [Joshua Chan](https://joshuachan.org/code.html) — 
 - [Silvia Miranda-Agrippino](https://silviamirandaagrippino.com/code-data) — 
