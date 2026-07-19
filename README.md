@@ -15,10 +15,16 @@ Inspired by [awesome-var](https://github.com/kvasilopoulos/awesome-var).
 - [Machine Learning Shadow Rate VARs (MLSRVAR)](#machine-learning-shadow-rate-vars)
 - [License](#license)
 
-## VAR Theory: Useful Books and Lecture Notes
+## VAR Theory: Useful Books, Lecture Notes and Authors
 
-- [Resource name](link) — Short explanation.
-
+- [Dimitris Korobilis]([link](https://sites.google.com/site/dimitriskorobilis/matlab?authuser=0)) — 
+- [Gary Koop](https://sites.google.com/site/garykoop/home/computer-code-2?authuser=0) — 
+- [Joshua Chan](https://joshuachan.org/code.html) — 
+- [Silvia Miranda-Agrippino](https://silviamirandaagrippino.com/code-data) — 
+- [Tao Zha](https://tzha.net/code/) — 
+- [Lutz Kilian](https://sites.google.com/site/lkilian2019/research/code) —
+- [Katerina Petrova](https://sites.google.com/site/katerinapetrovawebpage/research?authuser=0&pli=1))
+  
 ## VARs
 
 - [VAR-Toolbox (MATLAB)](https://github.com/ambropo/VAR-Toolbox) — by Ambrogio Cesa-Bianchi.
